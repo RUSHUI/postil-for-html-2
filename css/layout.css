@@ -1,0 +1,34 @@
+html,body{
+  height: 100%;
+}
+body{
+  background-image: url(../assets/images/singlebg.png);
+  position: relative;
+}
+footer,header{
+  line-height: 25px;
+  text-align: center;
+}
+footer{
+  border-top:1px solid #CFB36D;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-image: url(../assets/images/singlebg.png);
+  color:#616161;
+}
+header{
+  font-size: 22px;
+line-height: 45px;
+height: 40px;
+border-bottom: 1px solid #CFB36D;
+}
+a{
+  text-decoration: none;
+}
+.artcontent{
+  font-size: 16px;
+}
+p{
+  text-indent: 2em;
+}
